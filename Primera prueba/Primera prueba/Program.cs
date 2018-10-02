@@ -9,6 +9,7 @@ namespace Primera_prueba
             Console.WriteLine("Hello World!");
 
             //Segunda prueba de la aplicacion 
+            //La aplicacion funciona correctamente
         }
     }
 }
